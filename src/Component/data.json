@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name": "ABC",
+        "phone":"0985345213",
+        "permission":"Admin"
+    },
+    {
+        "id":2,
+        "name": "ABCD",
+        "phone":"0985345214",
+        "permission":"User"
+    },
+    {
+        "id":3,
+        "name": "ABCDE",
+        "phone":"0985345215",
+        "permission":"User"
+    },
+    {
+        "id":4,
+        "name": "ABCDEG",
+        "phone":"0985345216",
+        "permission":"User"
+    }
+]
